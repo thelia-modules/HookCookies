@@ -1,0 +1,19 @@
+#cookie-headband {
+    background-color: #fff;
+    border-top: 1px solid #897358;
+    bottom: 0;
+    margin-bottom: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    color: #000;
+
+
+}
+
+#cookie-headband .container{background: transparent;}
+
+#cookie-headband button.close {
+    font-size: 50px;
+    line-height: 20px;
+}
