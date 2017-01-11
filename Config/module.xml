@@ -4,16 +4,16 @@
         xsi:schemaLocation="http://thelia.net/schema/dic/module http://thelia.net/schema/dic/module/module-2_1.xsd">
     <fullnamespace>HookCookies\HookCookies</fullnamespace>
     <descriptive locale="en_US">
-        <title>Block cookies</title>
+        <title>Cookie warning block</title>
     </descriptive>
     <descriptive locale="fr_FR">
-        <title>Bloc cookies</title>
+        <title>Bloc d'avertissement sur l'usage des cookies</title>
     </descriptive>
     <languages>
         <language>en_US</language>
         <language>fr_FR</language>
     </languages>
-    <version>0.2</version>
+    <version>0.3</version>
     <author>
         <name>Damien Foulhoux</name>
         <email>dfoulhoux@openstudio.fr</email>
